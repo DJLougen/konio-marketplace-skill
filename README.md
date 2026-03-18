@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://konio.org">
-    <img src="assets/header.svg" alt="KONIO Marketplace" width="800"/>
+    <img src="assets/konio-banner.svg" alt="KONIO Marketplace" width="800"/>
   </a>
 </p>
 
