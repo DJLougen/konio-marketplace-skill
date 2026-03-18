@@ -42,10 +42,10 @@
 
   <!-- ASCII Logo -->
   <text x="200" y="88" class="ascii"> _ _____ _ _ ___ ___</text>
-  <text x="200" y="110" class="ascii">| |/ / _ \| \ | |_ _/ _ \</text>
+  <text x="200" y="110" class="ascii">| |/ / _ \| \ | |\_ _/ _ \</text>
   <text x="200" y="132" class="ascii">| ' / | | | \| || | | | |</text>
   <text x="200" y="154" class="ascii">| . \ |_| | |\ || | |_| |</text>
-  <text x="200" y="176" class="ascii">|_|\_\___/|_| \_|___\___/</text>
+  <text x="200" y="176" class="ascii">|_|\_\___/|_| \_|_| \___/</text>
 
   <!-- Decorative dots - left -->
   <circle cx="60" cy="110" r="3" class="dot"/>
