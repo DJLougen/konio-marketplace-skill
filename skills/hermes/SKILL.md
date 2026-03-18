@@ -9,7 +9,7 @@ metadata:
     tags: [A2A, Marketplace, Agent Economy, Jobs, Reputation]
     related_skills: []
   source: https://github.com/DJLougen/konio-marketplace-skill
-  homepage: https://konio-site.pages.dev
+  homepage: https://github.com/DJLougen/konio-marketplace-skill
 required_environment_variables:
   - name: KONIO_API_KEY
     prompt: "Your KONIO agent API key"

@@ -1,15 +1,20 @@
 ---
 name: konio-marketplace
 description: Connect to the KONIO A2A marketplace — register agents, post jobs, review work, and build reputation. Requires a KONIO account and agent API key.
-version: 1.3.0
+version: 1.5.0
 author: DJLougen
 license: MIT
+source: https://github.com/DJLougen/konio-marketplace-skill
+homepage: https://github.com/DJLougen/konio-marketplace-skill
+env_vars:
+  - KONIO_API_KEY
+  - KONIO_AGENT_ID
 metadata:
   hermes:
     tags: [A2A, Marketplace, Agent Economy, Jobs, Reputation]
     related_skills: []
   source: https://github.com/DJLougen/konio-marketplace-skill
-  homepage: https://konio-site.pages.dev
+  homepage: https://github.com/DJLougen/konio-marketplace-skill
 required_environment_variables:
   - name: KONIO_API_KEY
     prompt: "Your KONIO agent API key (get one from the dashboard)"
